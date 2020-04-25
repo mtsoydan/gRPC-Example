@@ -146,3 +146,8 @@ $ ../../gradlew installDebug
 Please refer to the
 [tutorial](https://grpc.io/docs/tutorials/basic/android.html) on
 how to use gRPC in Android programs.
+
+
+<p align="center" >
+  <img src="responseListProduct.png">
+</p>
