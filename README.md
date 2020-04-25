@@ -15,9 +15,9 @@
 
 ```sh
 # Clone the repository to get the example code
-$ git clone https://github.com/mtsoydan/gRPCExample
+$ git clone https://github.com/mtsoydan/gRPC-Example
 # Navigate to the server example:
-$ cd gRPCExample/NodeJsGrpcServerClient
+$ cd gRPC-Example/NodeJsGrpcServerClient
 # Install the example's dependencies
 $ npm install
 ```
@@ -25,7 +25,7 @@ $ npm install
 
 ### Run a gRPC application
 
-From the `gRPCExample\NodeJsGrpcServerClient` directory:
+From the `gRPC-Example\NodeJsGrpcServerClient` directory:
 
  1. Run the server:
 
@@ -139,7 +139,7 @@ INSTALL
 
 2. Install the app
 ```sh
-$ cd gRPCExample/AndroidClient/helloworld
+$ cd gRPC-Example/AndroidClient/helloworld
 $ ../../gradlew installDebug
 ```
 
