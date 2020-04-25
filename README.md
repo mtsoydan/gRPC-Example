@@ -151,3 +151,6 @@ how to use gRPC in Android programs.
 <p align="center" >
   <img src="responseListProduct.png">
 </p>
+<p align="center" >
+  <img src="responseJsonProduct.png">
+</p>
